@@ -1,22 +1,21 @@
-## Presentations for COMM313 Group Project
+## Presentations for COMM313 Group Project:
 
-* This folder should contain the subfolders and files for your project presentations.
+### Initial Presentation:
 
-### Initial Presentation
+This is a PDF of our initial project presentation, which outlines our plan for research regarding the opioid crisis generally across the country, as well as more specifically in Connecticut.
 
-* The presentation should have 3-5 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data are you using, how did you collect it and what are its dimensions?
-  3. What are your planned analyses and/or any initial findings.
+In it, we discuss:
+* Our research questions and hypotheses
+* The data sets we are studying
+* How we plan to analyze the dataa
 
-### Final Presentation
+### Final Presentation:
 
-* The presentation should have 8-10 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data did you use, how did you acquire and clean it and what are its dimensions?
-  3. What analyses did you carry out?
-  4. What are your key findings so far?
-  5. Next steps before final submission.
+This is a PDF of our final project presentation, which outlines our completed analyses of the opioid crisis in the United States.
 
-
-* Update this README file to describe the presentations.
+In it, we discuss:
+* Our updated research questions and hypotheses
+* An in-depth explanation of the steps in our analyses of each data set
+* Our conclusions from each level of analysis
+* A review of our main findings
+* What we have left to do before submitting our data story
